@@ -1,0 +1,17 @@
+,fighter_name,ranked_opponents_faced
+0,Khabib Nurmagomedov,"{'Justin Gaethje': 'win', 'Dustin Poirier': 'win', 'Conor McGregor': 'win', 'Al Iaquinta': 'win'}"
+1,Justin Gaethje,"{'Khabib Nurmagomedov': 'loss', 'Tony Ferguson': 'win', 'Donald Cerrone': 'win', 'Dustin Poirier': 'loss'}"
+2,Dustin Poirier,"{'Dan Hooker': 'win', 'Khabib Nurmagomedov': 'loss', 'Justin Gaethje': 'win', 'Diego Ferreira': 'win', 'Conor McGregor': 'loss'}"
+3,Tony Ferguson,"{'Justin Gaethje': 'loss', 'Donald Cerrone': 'win', 'Kevin Lee': 'win'}"
+4,Conor McGregor,"{'Donald Cerrone': 'win', 'Khabib Nurmagomedov': 'loss', 'Dustin Poirier': 'win'}"
+5,Dan Hooker,"{'Dustin Poirier': 'loss', 'Paul Felder': 'win', 'Al Iaquinta': 'win'}"
+6,Charles Oliveira,"{'Kevin Lee': 'win', 'Paul Felder': 'loss', 'Donald Cerrone': 'loss'}"
+7,Paul Felder,"{'Dan Hooker': 'loss', 'Charles Oliveira': 'win'}"
+8,Diego Ferreira,"{'Dustin Poirier': 'loss', 'Beneil Dariush': 'loss'}"
+9,Al Iaquinta,"{'Dan Hooker': 'loss', 'Donald Cerrone': 'loss', 'Kevin Lee': 'win', 'Khabib Nurmagomedov': 'loss'}"
+10,Kevin Lee,"{'Charles Oliveira': 'loss', 'Gregor Gillespie': 'win', 'Al Iaquinta': 'loss', 'Tony Ferguson': 'loss'}"
+11,Beneil Dariush,"{'Drew Dober': 'win', 'Diego Ferreira': 'win'}"
+12,Islam Makhachev,{}
+13,Gregor Gillespie,{'Kevin Lee': 'loss'}
+14,Drew Dober,{'Beneil Dariush': 'loss'}
+15,Donald Cerrone,"{'Conor McGregor': 'loss', 'Justin Gaethje': 'loss', 'Tony Ferguson': 'loss', 'Al Iaquinta': 'win', 'Charles Oliveira': 'win'}"
